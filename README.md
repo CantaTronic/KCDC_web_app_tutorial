@@ -2,9 +2,9 @@
 
 ## About
 
-This repository is a part of the [KCDC open access tutorial for the Hacky Hours at DPG=2023](https://www.dpg-verhandlungen.de/year/2023/conference/smuk/part/akjdpg/session/2). Here you can find a template for a simple data-based web application you can use to make the results of your analysis more accessible for your audience. This reporitory is based on the [KG-ML web application](https://kascade-streamlit.labs.jb.gg/), developed in the framework of the [KCDC](https://kcdc.iap.kit.edu/) Outreach activities. More about this one can find in our [publication](https://pos.sissa.it/410/007/pdf) or in [our app code repository](https://github.com/CantaTronic/kg_ml_app). 
+This repository is a part of the [KCDC open access tutorial for the Hacky Hours at DPG=2023](https://www.dpg-verhandlungen.de/year/2023/conference/smuk/part/akjdpg/session/2). Here you can find a template for a simple data-based web application you can use to make the results of your analysis more accessible for your audience. This repository is based on the [KG-ML web application](https://kascade-streamlit.labs.jb.gg/), developed in the framework of the [KCDC](https://kcdc.iap.kit.edu/) Outreach activities. More about this one can find in our [publication](https://pos.sissa.it/410/007/pdf) or in [our app code repository](https://github.com/CantaTronic/kg_ml_app). 
 
-For more inspiration please take a look in [Streamlit Gallery](https://streamlit.io/gallery).
+For more inspiration, please take a look in [Streamlit Gallery](https://streamlit.io/gallery).
 
 <img src="static/KCDC_Logo.png"  width="200" height="100">
 
@@ -17,7 +17,7 @@ Enjoy!
 
 ### a) In Docker
 
-* Biuld the image: `docker build --tag app:1.1 . `
+* Build the image: `docker build --tag app:1.1 . `
 * Choose the port number, for example, `5391`
 * Run the app in the container: `docker run --publish 5391:5391 -it app:1.1`
 
