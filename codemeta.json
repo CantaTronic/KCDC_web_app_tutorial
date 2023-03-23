@@ -1,0 +1,40 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
+    "codeRepository": "git+https://github.com/CantaTronic/KCDC_web_app_tutorial",
+    "dateCreated": "2023-03-22",
+    "datePublished": "2023-03-23",
+    "dateModified": "2023-03-23",
+    "downloadUrl": "https://github.com/CantaTronic/KCDC_web_app_tutorial/archive/refs/heads/main.zip",
+    "issueTracker": "https://github.com/CantaTronic/KCDC_web_app_tutorial/issues",
+    "name": "KCDC web app tutorial",
+    "description": "This software is a part of the KCDC open access tutorial for the Hacky Hours at DPG=2023 (https://www.dpg-verhandlungen.de/year/2023/conference/smuk/part/akjdpg/session/2). Here you can find a template for a simple data-based web application you can use to make the results of your analysis more accessible for your audience. This repository is based on the KG-ML web application (https://kascade-streamlit.labs.jb.gg/), developed in the framework of the KCDC (https://kcdc.iap.kit.edu/) Outreach activities. More about this one can find in our publication (https://pos.sissa.it/410/007/pdf) or in our app code repository (https://github.com/CantaTronic/kg_ml_app).",
+    "applicationCategory": "Astroparticle physics",
+    "keywords": [
+        "KCDC",
+        "astroparticle physics",
+        "streamlit",
+        "open data",
+        "FAIR"
+    ],
+    "programmingLanguage": [
+        "Python 3"
+    ],
+    "operatingSystem": [
+        "Linux"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://orcid.org/0000-0001-6699-830X",
+            "givenName": "Victoria",
+            "familyName": "Tokareva",
+            "email": "victoria.tokareva@kit.edu",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Institute for Astroparticle Physics, Karlsruhe Institute of Technology"
+            }
+        }
+    ]
+}

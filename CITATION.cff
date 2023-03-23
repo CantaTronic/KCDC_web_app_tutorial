@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: KCDC web app tutorial
+message: >-
+  This software is a part of the KCDC open access tutorial
+  for the Hacky Hours at DPG=2023
+  (https://www.dpg-verhandlungen.de/year/2023/conference/smuk/part/akjdpg/session/2).
+  Here you can find a template for a simple data-based web
+  application you can use to make the results of your
+  analysis more accessible for your audience. This
+  repository is based on the KG-ML web application
+  (https://kascade-streamlit.labs.jb.gg/), developed in the
+  framework of the KCDC (https://kcdc.iap.kit.edu/) Outreach
+  activities. More about this one can find in our
+  publication (https://pos.sissa.it/410/007/pdf) or in our
+  app code repository
+  (https://github.com/CantaTronic/kg_ml_app).
+type: software
+authors:
+  - given-names: Victoria
+    family-names: Tokareva
+    email: victoria.tokareva@kit.edu
+    affiliation: >-
+      Institute for Astroparticle Physics, Karlsruhe
+      Institute of Technology
+    orcid: 'https://orcid.org/0000-0001-6699-830X'
+identifiers:
+  - type: url
+    value: 'https://github.com/CantaTronic/KCDC_web_app_tutorial'
+    description: GitHub repository

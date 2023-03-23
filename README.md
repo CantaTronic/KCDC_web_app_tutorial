@@ -27,9 +27,9 @@ Ready!
 
 If you don't want to run the app in the container, you can 
 
-* run virtual environment using `pipenv shell` 
+* run virtual environment using `pipenv shell`
 * Choose the port number, for example, `5391`
-* run the app using `streamlit run app.py --server.port 5391` 
+* run the app using `streamlit run app.py --server.port 5391`
 
-## Prepared by 
+## Prepared by
 Victoria Tokareva for KCDC Team, 2023.
